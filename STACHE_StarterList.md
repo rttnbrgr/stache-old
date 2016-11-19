@@ -56,7 +56,10 @@ __Photography__
 ## Git Resources
 [Codecademy - Git]: https://www.codecademy.com/learn/learn-git  
 [GitTower - Learn]: http://www.git-tower.com/learn/  
+https://gist.github.com/alexpchin/dc91e723d4db5018fef8
 
+*Git related*
+[https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/]: Start repo w/ project open
 
 ## Type Resources
 [Typewolf]: https://www.typewolf.com/  
@@ -74,3 +77,11 @@ __Photography__
 ### Process These
 [Portfolio Building]: https://www.format.com/magazine/guides/build-the-perfect-portfolio-design  
 [Backup Website]: http://www.inmotionhosting.com/support/website/file-management/create-backup-using-ftp  
+
+
+
+
+## Dev
+
+_Learn To Code_
+[The Odin Project](http://www.theodinproject.com/)
